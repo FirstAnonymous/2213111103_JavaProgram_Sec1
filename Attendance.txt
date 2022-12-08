@@ -1,0 +1,4 @@
+StudentID : 2213111103
+FullName : Chayutpong Trakarnsukol
+AKA : FirstAnonymous
+ClassDetail: String Method
