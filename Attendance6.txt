@@ -1,5 +1,0 @@
-Date : 22-Dec-2022
-StudentID : 2213111103
-FullName : Chayutpong Trakarnsukol
-AKA : First
-ClassDetail: Class and Object
