@@ -17,14 +17,14 @@ public class Lab606 {
 	}
 	private static boolean checkindex(int[] nums , int index) {
 		return index < 0 || index > (nums.length - 1);
-}
+ }
 	private static int CurrentData(int[] nums , int index) {
 		return nums [index];
-}
+ }
 	private static int prevData(int[] nums , int index) {
 		return index == 0 ? -1 : nums[index-1];
-}
+ }
 	private static int nextData(int[] nums , int index) {
 		return index == nums.length-1 ? -1 : nums[index+1];
-}
+ }
 }
