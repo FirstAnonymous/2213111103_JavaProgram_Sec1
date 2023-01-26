@@ -2,4 +2,4 @@ Date : 26-January-2023
 StudentID : 2213111103
 FullName : Chayutpong Trakarnsukol
 AKA : First
-ClassDetail: Composition and Inheritance
+ClassDetail: Class and Composition
